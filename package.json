@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "archive": "zip -r PrimeParty.zip node_modules index.js" 
   },
   "keywords": [
     "alexa"
